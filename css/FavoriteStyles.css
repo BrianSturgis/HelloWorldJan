@@ -1,0 +1,10 @@
+body {
+  padding: 0%;
+  margin: 5%;
+  /* background-image: url("../assets/.jpg"); */
+  background-color:aqua;
+  background-repeat: absolute;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Audiowide', cursive;
+}
