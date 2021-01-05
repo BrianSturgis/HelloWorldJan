@@ -1,0 +1,35 @@
+[33mcommit 416a65799736dc55efbe1b57dfcaffecf61c46f0[m[33m ([m[1;36mHEAD -> [m[1;32mUI/UXbuildtheme[m[33m, [m[1;31morigin/UI/UXbuildtheme[m[33m)[m
+Author: Brian Sturgis <sturujisu@gmail.com>
+Date:   Mon Jan 4 14:59:26 2021 -0800
+
+    add welcome video to index.html
+
+[33mcommit ce905587de54604b73a9fce1511b367fb9262ccd[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Brian Sturgis <sturujisu@gmail.com>
+Date:   Mon Jan 4 13:26:01 2021 -0800
+
+    add css styling across project to finish build state and is ready to have branch made
+
+[33mcommit 8831f15c744563ba8e0c65800600d0de9ff60c24[m
+Author: Brian Sturgis <sturujisu@gmail.com>
+Date:   Mon Jan 4 12:48:02 2021 -0800
+
+    add css styleing as well as content updates
+
+[33mcommit 5a63cad1cde970e1891cbb1c95147f78e9caa7c4[m
+Author: Brian Sturgis <sturujisu@gmail.com>
+Date:   Mon Jan 4 11:17:35 2021 -0800
+
+    add a web page with info for favorite things
+
+[33mcommit edcd3e71e5b7878c879070ef97560884d1b1519d[m
+Author: Brian Sturgis <sturujisu@gmail.com>
+Date:   Mon Jan 4 10:22:32 2021 -0800
+
+    update the Readme.md file to bettter reflect the application in its current state
+
+[33mcommit ee0de6031fe8a7afb41a7d2ebb27ed79cdb13902[m
+Author: Brian Sturgis <sturujisu@gmail.com>
+Date:   Mon Jan 4 10:18:35 2021 -0800
+
+    first commit

@@ -1,10 +1,21 @@
 body {
-  padding: 0%;
-  margin: 5%;
+  padding: 1%;
+  margin: 3%;
   /* background-image: url("../assets/.jpg"); */
   background-color:aqua;
   background-repeat: absolute;
   background-attachment: fixed;
   background-size: cover;
   font-family: 'Audiowide', cursive;
+}
+
+#vid {
+  width: 50%;
+  height: auto;
+  margin: 23%;
+  
+  
+  /* padding-top: 1800; */
+  /* background:no-repeat scroll 70% 70%; */
+
 }

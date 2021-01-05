@@ -8,10 +8,10 @@ body {
   background-size: cover;
   font-family: 'Audiowide', cursive;
   text-align: center;
-  
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  
 }
 h1 {
   text-transform: uppercase;
@@ -21,4 +21,7 @@ h2 {
 }
 p {
   text-transform: capitalize;
+}
+l {
+  font-size:x-large;
 }
