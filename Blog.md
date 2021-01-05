@@ -1,9 +1,20 @@
 #OUR DAY "The Blog"
 
-### TO DAY
+## TO DAY
 
-### OUR FAVORITE FOODS
+### Jon's Day
+> My day have been going well working w
 
-### OUR FAVORITE VACATIONS 
+-----------------------
+## OUR FAVORITE FOODS
+
+----------------------
+## OUR FAVORITE VACATIONS 
+
+
+
+
+
+
 
 
